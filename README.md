@@ -24,5 +24,5 @@ To get started with this project, follow these steps:
 
 ## Example Conversation
 
-![AI_Conversation](https://github.com/DCampos22/Movie-Recommendation/assets/114826798/7cb8d090-4ab6-4bc6-a4f2-9387469dbfba)
+![AI_Convo](https://github.com/DCampos22/Movie-Recommendation/assets/114826798/97bd27b5-4503-4360-803f-a693fabbdd7e)
 
