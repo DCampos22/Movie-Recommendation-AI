@@ -24,5 +24,7 @@ To get started with this project, follow these steps:
 
 ## Example Conversation
 
+The example conversation demonstrates the interaction with the AI-driven recommendation system. Users can engage in conversations with the system to receive personalized movie recommendations based on their preferences.
+
 ![AI_Convo](https://github.com/DCampos22/Movie-Recommendation/assets/114826798/97bd27b5-4503-4360-803f-a693fabbdd7e)
 
