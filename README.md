@@ -20,12 +20,10 @@ To get started with this project, follow these steps:
    
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies.
 
-3. **Run the Application**: Start the application and interact with the conversational interface provided by EliseAI.
+3. **Run the Application**: Start the application and interact with the conversational interface.
 
-## Usage
 
-Simply input your preferences, such as favorite genres, actors, or directors, and EliseAI will generate personalized movie recommendations for you.
+## Example Conversation
 
-## Google Colab Notebook
+![AI_Conversation](https://github.com/DCampos22/Movie-Recommendation/assets/114826798/7cb8d090-4ab6-4bc6-a4f2-9387469dbfba)
 
-For a detailed demonstration and exploration of the project, please refer to the [Google Colab notebook](#) provided.
