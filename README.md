@@ -9,7 +9,6 @@ Movie-Recommendation is an AI-driven conversational recommendation platform deve
 ## Features
 
 - Utilizes AI technology to provide personalized movie recommendations.
-- Informative README to effectively showcase project capabilities.
 
 ## Getting Started
 
